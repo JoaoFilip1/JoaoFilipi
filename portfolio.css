@@ -1,5 +1,6 @@
 body {background-color: black;
-    margin: 250px;}
+    margin: 250px;
+     text}
     #container {
         width: 396px;
         height: auto;
@@ -8,11 +9,7 @@ body {background-color: black;
         text-align: center;
         border: 2px solid
     }
-    
-    
-    h1 {text-align: center;
-    margin: 2px;
-    color: white;}
+
     
     div{
     width: auto;
